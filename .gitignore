@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+results/
+.venv/
+*.egg-info/
+# keep real measurement data out of the repo
+data/
